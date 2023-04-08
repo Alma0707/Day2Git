@@ -2,10 +2,8 @@ package day2;
 
 public class Day2Demo {
 
-	public void getInfo() {
-		System.out.println("Pushing Code....");
-		
-		System.out.println("Push code");
+	public void add() {
+		System.out.println(1 +2 );
 	}
 
 	}
