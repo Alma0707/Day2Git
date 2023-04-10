@@ -9,6 +9,7 @@ public class Day2Demo {
 		System.out.println(1/2);
 		
 	}
+	String firstName = "John";
 	/**
 		This is coming from REMOTE 
 		*/
